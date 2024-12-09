@@ -1,6 +1,6 @@
 @font-face {
     font-family: android;
-    src: url(fontes/idroid.otf);
+    src: url('../font/idroid.otf');
 }
 
 * {
@@ -160,7 +160,7 @@ main img {
 }
 
 #list-box ul li{
-    list-style-image: url('imagens/check_micro.png');
+    list-style-image: url('../img/check_micro.png');
     margin-left: 40px;
     line-height: 18px;
 }
